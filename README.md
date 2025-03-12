@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679318847642/eb05a32c-e2a5-40fb-969b-5a72f78e30ef.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" align="center" style="width: 100%" />
+    <img src="https://www.canva.com/design/DAGheqdabYM/Avir-WIJbqkZ43Q99_Kjrg/view?utm_content=DAGheqdabYM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d58629295" align="center" style="width: 100%" />
 </div>    
 
 <h1 align="center">Hi 👋, I'm Affan Khulafa Hidayah</h1>
