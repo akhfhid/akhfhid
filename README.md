@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.canva.com/design/DAGheqdabYM/Avir-WIJbqkZ43Q99_Kjrg/view?utm_content=DAGheqdabYM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d58629295" align="center" style="width: 100%" />
+    <img src="https://github.com/akhfhid/akhfhid/blob/4262b32827982091626808f31f40c74778c2dd57/Untitled%20design%20(1).png" align="center" style="width: 100%" />
 </div>    
 
 <h1 align="center">Hi 👋, I'm Affan Khulafa Hidayah</h1>
