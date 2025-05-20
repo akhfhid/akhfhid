@@ -101,18 +101,17 @@
 <a href="https://github.com/akhfhid" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/@DevNGamer" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<!-- <a href="https://www.youtube.com/@DevNGamer" target="_blank"> -->
+<!-- <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /> -->
 </a>
-<a href="https://www.instagram.com/_adnalf26/" target="_blank">
+<a href="https://www.instagram.com/aff4n__/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>  
 
 ---
 
-### ❤️ Support Me:
 <p align="center">
-    <a href="https://saweria.co/callmeleon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee" /></a>
-    <a href="https://saweria.co/callmeleon" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Ko-fi" /></a>
-</p>
+<!--     <a href="https://saweria.co/callmeleon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee" /></a> -->
+<!--     <a href="https://saweria.co/callmeleon" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Ko-fi" /></a> -->
+<!-- </p> -->
