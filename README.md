@@ -62,6 +62,6 @@ response:** [Akhfhid](https://www.instagram.com/aff4n__)
 
 <p align="center">
     <a href="https://github.com/sponsors/akhfhid" target="_blank">
-        <img src="https://telegra.ph/file/14a7745f434cd21e900d6.jpg">
+        <img src="">
     </a>
 </p>
