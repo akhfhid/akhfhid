@@ -46,7 +46,7 @@ Hobbies: Watching Anime, Reading, Listening Music.
 
 ## **📫 Contact**
 
-<a href="https://github.com/akhfhid"><img align="right" width="100" src="https://c.tenor.com/GObeT8ZUrCQAAAAd/tenor.gif" /></a> **Please Contact me on Instagram for a quick
+<a href="https://github.com/akhfhid"><img align="right" width="100" src="https://c.tenor.com/mUmQwyGWG90AAAAC/tenor.gif" /></a> **Please Contact me on Instagram for a quick
 response:** [Akhfhid](https://www.instagram.com/aff4n__)
 
 **You can also email me here:** neoaffan2@gmail.com
