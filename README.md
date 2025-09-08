@@ -12,7 +12,7 @@ My hobbies include watching Movie, reading, and listening to music!
 root@afkhid: ~/Afkhid (main)$ afkfetch
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/76462435?s=400&u=967128a7cc1194a9533509af422d9da3cd517e66&v=4" width="130px"/>
+<img align="left" src="https://avatars.githubusercontent.com/u/121999511?v=4" width="130px"/>
 
 ```yaml
 My Profile
