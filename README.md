@@ -21,7 +21,7 @@ Username: Afkhid
 Whoami: Normal People.
 Languages: Indonesia & English
 Location: Jawa Barat, Indonesia.
-Hobbies: Watching Anime, Reading, Listening Music.
+Hobbies: Watching Movie, Reading, Listening Music.
 
 ```
 <h2 align="center"> 📖 Knowledge 📖 </h2>
