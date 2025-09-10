@@ -1,6 +1,6 @@
 
 <h2 align="center">Hey there!</h2>
-Affan here! I'm a Network Engineer, Cloud Engineer, Cyber Security specialist, and Software Engineer from Indonesia. I work with Javascript, Python, and PHP, specializing in server management, Virtual Machine, and backend development.
+Affan here! I'm a Cloud Engineer, Cyber Security specialist, and Software Engineer from Indonesia. I work with Javascript, Python, and PHP, specializing in server management, Virtual Machine, and backend development.
 
 I don't have anything special, but I hope to be able to change that in the future.
 
