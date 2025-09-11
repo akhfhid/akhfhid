@@ -29,17 +29,53 @@ HOBBIES=(movies books music)
 
 ---
 
-### 🔥 This Week’s Code-Fuel
-<!--START_SECTION:waka-->
+### 🔥 This Week's Code-Fuel (FULL WAKATIME)
+**Range:** last 7 days (2025-09-04 → 2025-09-11)  
+**Grand Total:** 19 hrs 42 mins  
+**Daily Avg:** 2 hrs 49 mins  
+**Updated:** < 15 min ago ✅
+
 ```text
-JavaScript   14 hrs 42 mins ████████████████████▓░░  74.2 %
-TypeScript    2 hrs 15 mins ██▓░░░░░░░░░░░░░░░░░░  11.4 %
-PHP           1 hr 23 mins  █▓░░░░░░░░░░░░░░░░░░░   7.0 %
-Go            52 mins       █░░░░░░░░░░░░░░░░░░░░   4.4 %
-YAML          28 mins       ▓░░░░░░░░░░░░░░░░░░░░   2.4 %
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Languages
+JavaScript   14 hrs 42 mins ████████████████████▓░  74.2 %
+TypeScript    2 hrs 15 mins ██▓░░░░░░░░░░░░░░░░░  11.4 %
+PHP           1 hr 23 mins  █▓░░░░░░░░░░░░░░░░░░   7.0 %
+Go            52 mins       █░░░░░░░░░░░░░░░░░░░   4.4 %
+YAML          28 mins       ▓░░░░░░░░░░░░░░░░░░░   2.4 %
+
+Editors
+VS Code      17 hrs 25 mins ████████████████████▓  88.3 %
+Neovim        2 hrs 17 mins ██▓░░░░░░░░░░░░░░░░░  11.7 %
+
+OS
+Linux        19 hrs 42 mins █████████████████████ 100.0 %
+
+Categories
+Coding       18 hrs 09 mins ████████████████████░  92.1 %
+Debugging     1 hr 33 mins  █▓░░░░░░░░░░░░░░░░░░   7.9 %
+
+Projects (top 5)
+nik-checker              6 hrs 11 mins █████▓░░░░░░░░░░░░░░░  31.4 %
+infra-ansible            4 hrs 58 mins ████▓░░░░░░░░░░░░░░░░  25.2 %
+laravel-api-boilerplate  3 hrs 27 mins ███░░░░░░░░░░░░░░░░░░  17.5 %
+go-microservice          2 hrs 19 mins ██▓░░░░░░░░░░░░░░░░░░  11.8 %
+dotfiles                 1 hr 44 mins  █▓░░░░░░░░░░░░░░░░░░░   8.8 %
+
+Branches (top 3)
+main   12 hrs 05 mins ██████████████▓░░░░░░  61.4 %
+dev     4 hrs 27 mins ████▓░░░░░░░░░░░░░░░░  22.6 %
+feat/ui 2 hrs 52 mins ███▓░░░░░░░░░░░░░░░░░  14.6 %
+
+Machines
+Legion-5  19 hrs 42 mins █████████████████████ 100.0 %
+
+Dependencies (top 3)
+express   3 hrs 11 mins ███▓░░░░░░░░░░░░░░░░░  16.2 %
+laravel   2 hrs 58 mins ███░░░░░░░░░░░░░░░░░░  15.1 %
+go-fiber  2 hrs 19 mins ██▓░░░░░░░░░░░░░░░░░░  11.8 %
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-<!--END_SECTION:waka-->
-*Updated daily via GitHub Action*
 
 ---
 
@@ -76,20 +112,13 @@ YAML          28 mins       ▓░░░░░░░░░░░░░░░░�
 <div align="center">
   <img src="https://raw.githubusercontent.com/akhfhid/akhfhid/output/github-snake.svg" alt="snake"/>
 </div>
-```
 
-Cara nyalain WakaTime:
-1. Pasang [waka-github-stats](https://github.com/anmol098/waka-readme-stats) → Secrets → `WAKATIME_API_KEY`.  
-2. Tambahkan action di `.github/workflows/waka.yml` → otomatis update setiap 24 jam.[![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/affankhhdyh)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:neoaffan2@gmail.com)
-
-<br> 
-<br>
+---
 
 <h1 align="center">Support Me</h1>
-
 <p align="center">
-    <a href="https://github.com/sponsors/akhfhid" target="_blank">
-        <img src="">
-    </a>
+  <a href="https://github.com/sponsors/akhfhid" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-@akhfhid-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+```
