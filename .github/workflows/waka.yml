@@ -4,14 +4,14 @@ on:
   schedule:
     # Runs every 6 hours (atau ubah jadi 0 */12 * * * dll)
     - cron: '0 */6 * * *'
-  workflow_dispatch:  # biar bisa di-run manual
+  workflow_dispatch:  
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: akhfhid/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
