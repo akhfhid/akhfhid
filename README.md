@@ -29,8 +29,7 @@ HOBBIES=(movies books music)
 
 ---
 
-<!--START_SECTION:waka--> … <!--END_SECTION:waka-->
-
+<!--SECTION:waka-->
 ```text
 
 ```
