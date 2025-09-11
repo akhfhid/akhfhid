@@ -14,7 +14,7 @@
 
 ---
 
-### 🧪 Dev-DNA (terminal style)
+### 🧪 Dev-DNA
 ```bash
 $ cat /proc/affan
 NAME="Affan"
