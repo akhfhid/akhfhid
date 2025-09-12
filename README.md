@@ -1,5 +1,3 @@
-
-<!-- 2025 Neon-Card Edition -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Affan&fontSize=60&fontAlignY=35&desc=%F0%9F%9A%80%20Cloud%20%7C%20Cyber-Sec%20%7C%20Backend&descAlignY=55"/>
 </div>
