@@ -6,10 +6,6 @@
   <img src="https://github.com/akhfhid.png" width="160" style="border-radius:50%;border:3px solid #00f5ff;box-shadow:0 0 25px #00f5ff"/>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/akhfhid/akhfhid/main/assets/slider.svg" width="80%"/>
-</div>
-
 ---
 
 ### 🧪 Dev-DNA
