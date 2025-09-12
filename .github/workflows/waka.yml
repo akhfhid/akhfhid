@@ -1,26 +1,29 @@
-name: Waka Readme
+name: ⏱️ Update WakaTime Stats
+
 on:
   schedule:
-    - cron: '30 18 * * *'     # 00:00 IST (UTC+5:30)
+    - cron: '30 18 * * *' # setiap 01:30 WIB
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4          # wajib checkout dulu
-      - uses: anmol098/waka-readme-stats@master
+      - name: 📥 Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: 📊 Generate WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-          # ---------- custom mulai sini ----------
-          SECTION_NAME: "waka"               # tag: <!--SECTION:waka-->
-          PUSH_BRANCH_NAME: "main"         # branch tujuan commit
-          PULL_BRANCH_NAME: "master"
-          LOCALE: "en"                       # bahasa Indonesia (opsi: en, es, fr, de, id, pt, ja, kr, ru, pl, it, nl, tr, zh)
-          SYMBOL_VERSION: "2"                # 1=█▓░  2=⣿⣷⣆  3=●○
+          SECTION_NAME: "waka"
+          PUSH_BRANCH_NAME: "main"
+          LOCALE: "id"
+          SYMBOL_VERSION: "2"
           UPDATED_DATE_FORMAT: "%d %b %Y - %H:%M WIB"
+
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
           SHOW_TIMEZONE: "True"
@@ -31,9 +34,8 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_SHORT_INFO: "True"
           SHOW_PROFILE_VIEWS: "True"
-          SHOW_COMMIT: "False"
+
           COMMIT_MESSAGE: "chore: update waka stats"
-          COMMIT_BY_ME: "False"              # True = pakai login kamu
+          COMMIT_BY_ME: "False"
           COMMIT_USERNAME: "github-actions[bot]"
           COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
-          DEBUG_LOGGING: "False"
