@@ -99,7 +99,11 @@ HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 ### Tech Stack
 
-<p align="center"> <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node-20-339933?style=flat&logo=nodedotjs&logoColor=white"/></a> <a href="https://golang.org"><img src="https://img.shields.io/badge/Go-1.22-00ADD8?style=flat&logo=go&logoColor=white"/></a> <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-11-FF2D20?style=flat&logo=laravel&logoColor=white"/></a> <a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-24-2496ED?style=flat&logo=docker&logoColor=white"/></a> <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-Architect-FF9900?style=flat&logo=amazonaws&logoColor=white"/></a> </p>
+<p align="center"> <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node-20-339933?style=flat&logo=nodedotjs&logoColor=white"/></a> <a href="https://golang.org"><img src="https://img.shields.io/badge/Go-1.22-00ADD8?style=flat&logo=go&logoColor=white"/></a> <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-11-FF2D20?style=flat&logo=laravel&logoColor=white"/></a> <a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-24-2496ED?style=flat&logo=docker&logoColor=white"/></a> <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-Architect-FF9900?style=flat&logo=amazonaws&logoColor=white"/></a>
+<a href="https://julialang.org">
+  <img src="https://img.shields.io/badge/Julia-1.11-9558B2?style=flat&logo=julia&logoColor=white"/>
+</a>
+ </p>
 
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akhfhid&show_icons=true&theme=react&hide_border=true&bg_color=00000000"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhfhid&layout=compact&theme=react&hide_border=true&bg_color=00000000"/> </p> 
 
