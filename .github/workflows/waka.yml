@@ -25,9 +25,9 @@ jobs:
           UPDATED_DATE_FORMAT: "%d %b %Y - %H:%M WIB"
 
           SHOW_OS: "True"
-          SHOW_EDITORS: "True"
+          SHOW_EDITORS: "False"
           SHOW_TIMEZONE: "True"
-          SHOW_PROJECTS: "True"
+          SHOW_PROJECTS: "False"
           SHOW_LANGUAGE: "True"
           SHOW_LOC_CHART: "True"
           SHOW_DAYS_OF_WEEK: "True"
