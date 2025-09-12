@@ -5,15 +5,6 @@
 <p align="center">
   <img src="https://github.com/akhfhid.png" width="160" style="border-radius:50%;border:3px solid #00f5ff;box-shadow:0 0 25px #00f5ff"/>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Backend+Engineer;Cyber+Security+Enthusiast;Cloud+Explorer" />
-</p>
-
-<h3 align="center">
-  <code>while(true) { code(); coffee++; }</code>
-</h3>
-
 ---
 
 ### 🧪 Dev-DNA
