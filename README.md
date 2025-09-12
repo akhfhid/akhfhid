@@ -121,7 +121,7 @@ go-fiber  2 hrs 19 mins ██▓░░░░░░░░░░░░░░░�
     <img src="https://img.shields.io/badge/Sponsor-@akhfhid-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-```  </tr>
+  </tr>
 </table>
 
 ---
@@ -147,4 +147,4 @@ go-fiber  2 hrs 19 mins ██▓░░░░░░░░░░░░░░░�
     <img src="https://img.shields.io/badge/Sponsor-@akhfhid-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-```
+
