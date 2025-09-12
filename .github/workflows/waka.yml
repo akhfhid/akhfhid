@@ -1,4 +1,4 @@
-name: ⏱️ Update WakaTime Stats
+name: ⏱ Update WakaTime Stats
 
 on:
   schedule:
@@ -9,10 +9,10 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: 📥 Checkout Repo
+      - name:  Checkout Repo
         uses: actions/checkout@v4
 
-      - name: 📊 Generate WakaTime Stats
+      - name:  Generate WakaTime Stats
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -20,7 +20,7 @@ jobs:
 
           SECTION_NAME: "waka"
           PUSH_BRANCH_NAME: "main"
-          LOCALE: "id"
+          LOCALE: "en"
           SYMBOL_VERSION: "2"
           UPDATED_DATE_FORMAT: "%d %b %Y - %H:%M WIB"
 
