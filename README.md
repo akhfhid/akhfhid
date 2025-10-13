@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Affan&fontSize=60&fontAlignY=35&desc=Cloud%20%7C%20Cyber-Sec%20%7C%20Backend&descAlignY=55"/>
 </div>
 
-<p align="center">
-  <img src="https://github.com/akhfhid.png" width="160" style="border-radius:50%;border:3px solid #00f5ff;box-shadow:0 0 25px #00f5ff"/>
-</p>
-
 ---
 
 ### 🧪 Dev-DNA
