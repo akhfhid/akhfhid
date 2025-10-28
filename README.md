@@ -1,18 +1,18 @@
-# Affan Khulafa Hidayah
+<div align="center">
 
-### ☁️ Cloud Engineer | 🛡️ Cyber-Security Enthusiast | 🖥️ Backend Developer
+# **Affan Khulafa Hidayah**
 
-<br>
+###  Cloud Engineer •  Cyber-Security Enthusiast •  Backend Developer
 
-<p align="center">
-    🌐 West Java, Indonesia
-    &nbsp; | &nbsp;
-    💡 Focus: Designing scalable and secure backend systems on Cloud platforms.
-</p>
+ West Java, Indonesia  
+ Focus: Designing scalable and secure backend systems on cloud platforms
+
+</div>
+
 
 ---
 
-## 🛠️ Keahlian Teknis (Core Competencies)
+##  Tech Stack
 
 ### **Spesialisasi**
 * **Cloud & Infra:** AWS (Architect), Docker, Cloudflare.
@@ -24,7 +24,7 @@
 <p align="center">
     <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-20-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
     <a href="https://golang.org"><img src="https://img.shields.io/badge/Go-1.22-00ADD8?style=flat&logo=go&logoColor=white"/></a>
-    <a href="https://laravel.com"><img src="https://img.io/badge/Laravel-11-FF2D20?style=flat&logo=laravel&logoColor=white"/></a>
+    <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat&logo=laravel&logoColor=white"/></a>
     <a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-24-2496ED?style=flat&logo=docker&logoColor=white"/></a>
     <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-Architect-FF9900?style=flat&logo=amazonaws&logoColor=white"/></a>
     <a href="https://cloudflare.com"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/></a>
@@ -105,7 +105,7 @@ HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ---
 
-## 📬 Hubungi Saya
+##  Contact
 
 <p align="center">
     <a href="https://linkedin.com/in/affankhhdyh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Affan%20Khulafa%20Hidayah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
