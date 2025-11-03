@@ -13,14 +13,7 @@
 ---
 
 ##  Tech Stack
-
-### **Specialist**
-* **Cloud & Infra:** AWS (Architect), Docker, Cloudflare.
-* **Backend:** Node.js, Next.js, Laravel (PHP), Hypervel (PHP).
-* **Security:** Cybersecurity principles and best practices.
-* **DevOps:** Linux, CI/CD pipeline scripting (Bash, YAML).
-
-<p align="center">
+ <p align="center">
     <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-20-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
     <a href="https://golang.org"><img src="https://img.shields.io/badge/Go-1.22-00ADD8?style=flat&logo=go&logoColor=white"/></a>
     <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat&logo=laravel&logoColor=white"/></a>
@@ -29,6 +22,12 @@
     <a href="https://cloudflare.com"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/></a>
     <a href="https://julialang.org"><img src="https://img.shields.io/badge/Julia-1.11-9558B2?style=flat&logo=julia&logoColor=white"/></a>
 </p>
+
+### **Specialist**
+* **Cloud & Infra:** AWS (Architect), Docker, Cloudflare.
+* **Backend:** Node.js, Next.js, Laravel (PHP), Hypervel (PHP).
+* **Security:** Cybersecurity principles and best practices.
+* **DevOps:** Linux, CI/CD pipeline scripting (Bash, YAML).
 
 ---
 <!--START_SECTION:waka-->
