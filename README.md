@@ -16,7 +16,7 @@
 
 ### **Spesialisasi**
 * **Cloud & Infra:** AWS (Architect), Docker, Cloudflare.
-* **Backend:** Node.js, Go, Laravel (PHP).
+* **Backend:** Node.js, Go, Laravel (PHP), Hypervel (PHP), Next.js.
 * **Security:** Cybersecurity principles and best practices.
 * **DevOps:** Linux, CI/CD pipeline scripting (Bash, YAML).
 
