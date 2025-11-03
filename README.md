@@ -20,7 +20,6 @@
 * **Security:** Cybersecurity principles and best practices.
 * **DevOps:** Linux, CI/CD pipeline scripting (Bash, YAML).
 
-### **Stack Teknis**
 <p align="center">
     <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-20-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
     <a href="https://golang.org"><img src="https://img.shields.io/badge/Go-1.22-00ADD8?style=flat&logo=go&logoColor=white"/></a>
