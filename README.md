@@ -14,9 +14,9 @@
 
 ##  Tech Stack
 
-### **Spesialisasi**
+### **Specialist**
 * **Cloud & Infra:** AWS (Architect), Docker, Cloudflare.
-* **Backend:** Node.js, Go, Laravel (PHP), Hypervel (PHP), Next.js.
+* **Backend:** Node.js, Next.js, Laravel (PHP), Hypervel (PHP).
 * **Security:** Cybersecurity principles and best practices.
 * **DevOps:** Linux, CI/CD pipeline scripting (Bash, YAML).
 
