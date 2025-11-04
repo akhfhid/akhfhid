@@ -122,7 +122,7 @@ CSS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ##  Contact
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/affan-khulafa-hidayah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Affan%20Khulafa%20Hidayah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/affan-khulafa-hidayah-97975033b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Affan%20Khulafa%20Hidayah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:neoaffan2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-neoaffan2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://t.me/affankhhdyh" target="_blank"><img src="https://img.shields.io/badge/Telegram-@affankhhdyh-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
     <a href="https://instagram.com/aff4n__" target="_blank"><img src="https://img.shields.io/badge/IG-%40aff4n__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
