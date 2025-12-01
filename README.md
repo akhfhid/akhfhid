@@ -4,15 +4,10 @@
 
 ###  Cloud Engineer •  Cyber-Security Enthusiast •  Backend Developer
 
- West Java, Indonesia  
- Focus: Designing scalable and secure backend systems on cloud platforms
+<p align="justify">I am a Backend and Cloud Engineer with a strong foundation in building distributed backend services, real-time messaging systems, and automation platforms. I work with modern server-side technologies and cloud infrastructure to develop scalable APIs, microservices, and containerized applications. My experience includes designing messaging-driven architectures for platforms such as Discord, WhatsApp, and Telegram, integrating external APIs, and optimizing system performance in production environments. I prioritize maintainability, resource efficiency, fault tolerance, and security throughout the entire development lifecycle.</p>
 
 </div>
 
----
-
-## About Me - Affan Khulafa Hidayah
-I am a Backend and Cloud Engineer with a strong foundation in building distributed backend services, real-time messaging systems, and automation platforms. I work with modern server-side technologies and cloud infrastructure to develop scalable APIs, microservices, and containerized applications. My experience includes designing messaging-driven architectures for platforms such as Discord, WhatsApp, and Telegram, integrating external APIs, and optimizing system performance in production environments. I prioritize maintainability, resource efficiency, fault tolerance, and security throughout the entire development lifecycle.
 
 ##  Tech Stack
  <p align="center">
