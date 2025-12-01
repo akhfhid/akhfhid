@@ -9,8 +9,10 @@
 
 </div>
 
-
 ---
+
+## About Me - Affan Khulafa Hidayah
+I am a Backend and Cloud Engineer with a strong foundation in building distributed backend services, real-time messaging systems, and automation platforms. I work with modern server-side technologies and cloud infrastructure to develop scalable APIs, microservices, and containerized applications. My experience includes designing messaging-driven architectures for platforms such as Discord, WhatsApp, and Telegram, integrating external APIs, and optimizing system performance in production environments. I prioritize maintainability, resource efficiency, fault tolerance, and security throughout the entire development lifecycle.
 
 ##  Tech Stack
  <p align="center">
@@ -23,7 +25,7 @@
     <a href="https://julialang.org"><img src="https://img.shields.io/badge/Julia-1.11-9558B2?style=flat&logo=julia&logoColor=white"/></a>
 </p>
 
-### **Specialist**
+## **Specialist**
 * **Cloud & Infra:** AWS (Architect), Docker, Cloudflare.
 * **Backend:** Node.js, Next.js, Laravel (PHP), Hypervel (PHP).
 * **Security:** Cybersecurity principles and best practices.
