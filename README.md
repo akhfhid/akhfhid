@@ -20,7 +20,6 @@
     <a href="https://julialang.org"><img src="https://img.shields.io/badge/Julia-1.11-9558B2?style=flat&logo=julia&logoColor=white"/></a>
 </p>
 
-## **Specialist**
 * **Cloud & Infra:** AWS (Architect), Docker, Cloudflare.
 * **Backend:** Node.js, Next.js, Laravel (PHP), Hypervel (PHP).
 * **Security:** Cybersecurity principles and best practices.
