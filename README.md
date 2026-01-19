@@ -2,27 +2,83 @@
 
 # **Affan Khulafa Hidayah**
 
-###  Cloud Engineer •  Cyber-Security Enthusiast •  Backend Developer
+### Cloud Engineer • Backend & Infrastructure Engineer • Cyber-Security Enthusiast  
+**Node.js • Bun.js • TypeScript • Cloud • DevOps**
 
-<p align="justify">I am a Backend and Cloud Engineer with a strong foundation in building distributed backend services, real-time messaging systems, and automation platforms. I work with modern server-side technologies and cloud infrastructure to develop scalable APIs, microservices, and containerized applications. My experience includes designing messaging-driven architectures for platforms such as Discord, WhatsApp, and Telegram, integrating external APIs, and optimizing system performance in production environments. I prioritize maintainability, resource efficiency, fault tolerance, and security throughout the entire development lifecycle.</p>
 </div>
 
+---
 
-##  Tech Stack
- <p align="center">
-    <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-20-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
-    <a href="https://golang.org"><img src="https://img.shields.io/badge/Go-1.22-00ADD8?style=flat&logo=go&logoColor=white"/></a>
-    <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat&logo=laravel&logoColor=white"/></a>
-    <a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-24-2496ED?style=flat&logo=docker&logoColor=white"/></a>
-    <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-Architect-FF9900?style=flat&logo=amazonaws&logoColor=white"/></a>
-    <a href="https://cloudflare.com"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/></a>
-    <a href="https://julialang.org"><img src="https://img.shields.io/badge/Julia-1.11-9558B2?style=flat&logo=julia&logoColor=white"/></a>
+## 👋 About Me
+
+I am a **Backend and Cloud Engineer** with a strong focus on building **scalable backend systems**, **cloud-native services**, and **infrastructure-aware applications**. I specialize in modern JavaScript and TypeScript runtimes such as **Node.js** and **Bun.js** to develop high-performance APIs, automation platforms, and messaging-driven systems.
+
+My work spans across **distributed backend services**, **real-time messaging systems**, and **infrastructure automation**, with hands-on experience in designing and operating production environments. I frequently work with messaging platforms such as **WhatsApp**, **Telegram**, and **Discord**, integrating external APIs and building event-driven architectures.
+
+I prioritize **maintainability**, **resource efficiency**, **fault tolerance**, and **security** throughout the entire development lifecycle — from local development to production deployment.
+
+---
+
+## ⚙️ Core Expertise
+
+- High-performance backend APIs using **Node.js** and **Bun.js**
+- Strong **TypeScript-first** development approach
+- Messaging automation & bot platforms (WhatsApp, Telegram, Discord)
+- RESTful APIs & event-driven architectures
+- Linux-based server environments
+- Containerization & cloud infrastructure
+- Secure-by-design backend systems
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-20-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
+  <a href="https://bun.sh"><img src="https://img.shields.io/badge/Bun.js-Runtime-000000?style=flat&logo=bun&logoColor=white"/></a>
+  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat&logo=typescript&logoColor=white"/></a>
+  <a href="https://golang.org"><img src="https://img.shields.io/badge/Go-1.22-00ADD8?style=flat&logo=go&logoColor=white"/></a>
+  <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat&logo=laravel&logoColor=white"/></a>
+  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-24-2496ED?style=flat&logo=docker&logoColor=white"/></a>
+  <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat&logo=amazonaws&logoColor=white"/></a>
+  <a href="https://www.cloudflare.com"><img src="https://img.shields.io/badge/Cloudflare-Edge-F38020?style=flat&logo=cloudflare&logoColor=white"/></a>
 </p>
 
-* **Cloud & Infra:** AWS (Architect), Docker, Cloudflare.
-* **Backend:** Node.js, Next.js, Laravel (PHP), Hypervel (PHP).
-* **Security:** Cybersecurity principles and best practices.
-* **DevOps:** Linux, CI/CD pipeline scripting (Bash, YAML).
+### 🔹 Backend
+- Node.js, Bun.js (TypeScript)
+- REST APIs & microservices
+- Messaging systems & automation
+- API integrations & webhooks
+
+### 🔹 Cloud & Infrastructure
+- AWS (Architecture & deployment)
+- Docker & containerized workloads
+- Cloudflare (DNS, security, edge)
+- Linux server administration
+
+### 🔹 DevOps
+- CI/CD pipelines (YAML, Bash)
+- Environment-based deployments
+- Process management (PM2)
+- Monitoring & log-based debugging
+
+### 🔹 Security
+- Secure API design
+- Access control & authentication
+- Rate limiting & abuse prevention
+- Infrastructure hardening principles
+
+---
+
+## 📈 Development Focus
+
+- Designing **production-ready backend services**
+- Optimizing **performance and memory usage**
+- Building **automation panels and internal tools**
+- Maintaining **reliable and observable systems**
+- Applying **security best practices** by default
+
+---
 
 ---
 <!--START_SECTION:waka-->
