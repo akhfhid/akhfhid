@@ -9,7 +9,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I am a **Backend and Cloud Engineer** with a strong focus on building **scalable backend systems**, **cloud-native services**, and **infrastructure-aware applications**. I specialize in modern JavaScript and TypeScript runtimes such as **Node.js** and **Bun.js** to develop high-performance APIs, automation platforms, and messaging-driven systems.
 
@@ -19,7 +19,7 @@ I prioritize **maintainability**, **resource efficiency**, **fault tolerance**, 
 
 ---
 
-## ⚙️ Core Expertise
+## Core Expertise
 
 - High-performance backend APIs using **Node.js** and **Bun.js**
 - Strong **TypeScript-first** development approach
@@ -31,7 +31,7 @@ I prioritize **maintainability**, **resource efficiency**, **fault tolerance**, 
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-20-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
@@ -70,7 +70,7 @@ I prioritize **maintainability**, **resource efficiency**, **fault tolerance**, 
 
 ---
 
-## 📈 Development Focus
+## Development Focus
 
 - Designing **production-ready backend services**
 - Optimizing **performance and memory usage**
