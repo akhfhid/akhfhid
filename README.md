@@ -19,18 +19,6 @@ I prioritize **maintainability**, **resource efficiency**, **fault tolerance**, 
 
 ---
 
-## Core Expertise
-
-- High-performance backend APIs using **Node.js** and **Bun.js**
-- Strong **TypeScript-first** development approach
-- Messaging automation & bot platforms (WhatsApp, Telegram, Discord)
-- RESTful APIs & event-driven architectures
-- Linux-based server environments
-- Containerization & cloud infrastructure
-- Secure-by-design backend systems
-
----
-
 ## Tech Stack
 
 <p align="center">
@@ -67,18 +55,6 @@ I prioritize **maintainability**, **resource efficiency**, **fault tolerance**, 
 - Access control & authentication
 - Rate limiting & abuse prevention
 - Infrastructure hardening principles
-
----
-
-## Development Focus
-
-- Designing **production-ready backend services**
-- Optimizing **performance and memory usage**
-- Building **automation panels and internal tools**
-- Maintaining **reliable and observable systems**
-- Applying **security best practices** by default
-
----
 
 ---
 <!--START_SECTION:waka-->
