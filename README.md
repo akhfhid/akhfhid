@@ -143,11 +143,10 @@ CSS                      2 repos             █░░░░░░░░░░�
  Last Updated on 10/02/2026 19:37:38 UTC
 <!--END_SECTION:waka-->
 ---
-## 📊 Statistik & Aktivitas
+## Statistik & Aktivitas
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=akhfhid&show_icons=true&theme=react&hide_border=true&bg_color=00000000&locale=en" alt="Affan's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhfhid&layout=compact&theme=react&hide_border=true&bg_color=00000000&locale=en" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=akhfhid&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
 ---
@@ -165,7 +164,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
-### **Dukungan**
+### **Support**
 <p align="center">
     <a href="https://github.com/sponsors/akhfhid" target="_blank">
         <img src="https://img.shields.io/badge/Sponsor-@akhfhid-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/>
