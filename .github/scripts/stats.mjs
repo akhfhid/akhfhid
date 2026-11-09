@@ -95,11 +95,11 @@ function render(t) {
   s += `<text x="${W}" y="16" font-family="${MONO}" font-size="12" fill="${t.muted}" text-anchor="end">updated ${updated}</text>`;
   s += `<line x1="0" y1="32" x2="${W}" y2="32" stroke="${t.rule}"/>`;
   kpis.forEach((k, i) => {
-    const x = i * colW + (i ? 24 : 0);
+    const x = i * colW + colW / 2;
     if (i) s += `<line x1="${i * colW}" y1="52" x2="${i * colW}" y2="128" stroke="${t.rule}"/>`;
-    s += `<text x="${x}" y="88" font-family="${SANS}" font-size="34" font-weight="800" letter-spacing="-.02em" fill="${k.accent ? t.accent : t.fg}">${esc(k.value)}</text>`;
-    s += `<text x="${x}" y="110" font-family="${SANS}" font-size="14" font-weight="600" fill="${t.fg}">${esc(k.label)}</text>`;
-    s += `<text x="${x}" y="127" font-family="${MONO}" font-size="12" fill="${t.muted}">${esc(k.sub)}</text>`;
+    s += `<text x="${x}" y="88" font-family="${SANS}" font-size="34" font-weight="800" letter-spacing="-.02em" text-anchor="middle" fill="${k.accent ? t.accent : t.fg}">${esc(k.value)}</text>`;
+    s += `<text x="${x}" y="110" font-family="${SANS}" font-size="14" font-weight="600" text-anchor="middle" fill="${t.fg}">${esc(k.label)}</text>`;
+    s += `<text x="${x}" y="127" font-family="${MONO}" font-size="12" text-anchor="middle" fill="${t.muted}">${esc(k.sub)}</text>`;
   });
   s += `<line x1="0" y1="148" x2="${W}" y2="148" stroke="${t.rule}"/>`;
   s += `<text x="0" y="176" font-family="${MONO}" font-size="12" letter-spacing=".08em" fill="${t.muted}">LANGUAGES · PUBLIC REPOS</text>`;
