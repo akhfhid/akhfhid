@@ -130,3 +130,16 @@ mkdirSync("assets", { recursive: true });
 for (const [name, t] of Object.entries(themes)) writeFileSync(`assets/stats-${name}.svg`, render(t));
 console.log(`total=${total} current=${current} longest=${longest.len} repos=${u.repositories.totalCount} stars=${stars}`);
 console.log(langList.map((l) => `${l.name} ${l.pct.toFixed(1)}%`).join(", "));
+
+// ---- mirror the GitSkins stock chart without its watermark ----
+for (const mode of ["dark", "light"]) {
+  try {
+    const r = await fetch(`https://www.gitskins.com/api/section/stock-chart?username=${login}&mode=${mode}`);
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const svg = await r.text();
+    if (!svg.startsWith("<svg")) throw new Error("not an SVG");
+    writeFileSync(`assets/stock-${mode}.svg`, svg.replace(/<text[^>]*>\s*gitskins\.com\s*<\/text>/gi, ""));
+  } catch (e) {
+    console.warn(`stock chart (${mode}) skipped, keeping previous file: ${e.message}`);
+  }
+}
