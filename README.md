@@ -63,11 +63,12 @@ I prioritize **maintainability**, **resource efficiency**, **fault tolerance**, 
 
 ---
 
-## Statistik & Aktivitas
+## Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akhfhid&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg" />
+  <img src="assets/stats-dark.svg" width="100%" alt="GitHub activity: contributions, streaks and languages" />
+</picture>
 
 ---
 
