@@ -12,12 +12,6 @@
   <img src="https://www.gitskins.com/api/section/stock-chart?username=akhfhid&mode=dark" width="100%" alt="My GitHub profile as a stock chart" />
 </picture>
 
-<sub>Not financial advice: the price is my contributions in the last 30 days.</sub>
-
-<a href="https://github.com/akhfhid">GitHub</a> · <a href="https://fourppan.web.id">Website</a>
-
-<sub>Stock Ticker · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
-
 ---
 
 ## About Me
