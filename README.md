@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stock-chart?username=akhfhid&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stock-chart?username=akhfhid&mode=dark" width="100%" alt="My GitHub profile as a stock chart" />
+</picture>
+
 <div align="center">
 
 # **Affan Khulafa Hidayah**
@@ -6,11 +11,6 @@
 **Node.js • Bun.js • TypeScript • Cloud • DevOps**
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stock-chart?username=akhfhid&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stock-chart?username=akhfhid&mode=dark" width="100%" alt="My GitHub profile as a stock chart" />
-</picture>
 
 ---
 
