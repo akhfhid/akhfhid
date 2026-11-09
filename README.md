@@ -64,6 +64,17 @@ I prioritize **maintainability**, **resource efficiency**, **fault tolerance**, 
   <img src="https://streak-stats.demolab.com?user=akhfhid&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stock-chart?username=akhfhid&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stock-chart?username=akhfhid&mode=dark" width="100%" alt="My GitHub profile as a stock chart" />
+</picture>
+
+<sub>Not financial advice: the price is my contributions in the last 30 days.</sub>
+
+<a href="https://github.com/akhfhid">GitHub</a> · <a href="https://fourppan.web.id">Website</a>
+
+<sub>Stock Ticker · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+
 ---
 
 ##  Contact
